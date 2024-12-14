@@ -76,7 +76,7 @@ export const projects = [
     des: "Checkout the college feedback system where students and professors come togehter to reach out and improve their skills together",
     img: "/CSIFEEDBACK.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://csifeedback.netlify.app/login",
+    link: "https://csifeedback.netlify.app/",
   },
   {
     id: 2,
