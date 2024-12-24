@@ -153,8 +153,8 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Data Analyst",
-    desc: "Analyzed and modeled large datasets to derive actionable insights, meeting client needs with a 95% data accuracy rate.",
+    title: "Frontend Developer",
+    desc: "Assisted in project delivery and oversaw escalation procedures for tickets, ensuring prompt resolution of critical issues and minimizing business impact.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
